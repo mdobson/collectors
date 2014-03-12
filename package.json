@@ -1,0 +1,19 @@
+{
+  "name": "ug-collector",
+  "version": "0.0.0",
+  "description": "Collector to do stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "keywords": [
+    "elroy"
+  ],
+  "author": "mdobs",
+  "license": "MIT",
+  "dependencies": {
+    "elroy-event-stream": "0.0.1",
+    "usergrid": "~0.10.7",
+    "splunkstorm": "~0.1.0"
+  }
+}
